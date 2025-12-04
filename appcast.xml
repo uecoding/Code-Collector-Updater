@@ -5,12 +5,12 @@
         <item>
             <title>Version 1.1</title>
             <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:version>0.1.11</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <enclosure 
-                url="https://yourname.github.io/app-updates/CodeCollector_1.1.zip" 
-                sparkle:edSignature="INSERT_SIGNATURE_FROM_STEP_4_HERE" 
-                length="1234567" 
+                url="https://drive.google.com/uc?export=download&id=1BlgsDRkmYsyypA4CtU_mXPQhfOkCuavB" 
+                sparkle:edSignature="eFUQg0H+FqGkydcQPEZZy4+0OBWpac+RIwEwHN2jq93Br3yH/a/VE8boKzVVOgyUZuZgCaLzlXi1aTZY3ol0AA==" 
+                length="4976892" 
                 type="application/octet-stream" />
         </item>
     </channel>
