@@ -3,14 +3,14 @@
     <channel>
         <title>Code Collector Updates</title>
         <item>
-            <title>Version 1.1</title>
+            <title>0.1.12</title>
             <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
-            <sparkle:version>0.1.11</sparkle:version>
-            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:version>0.1.12</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
             <enclosure 
-                url="https://drive.google.com/uc?export=download&id=1BlgsDRkmYsyypA4CtU_mXPQhfOkCuavB" 
-                sparkle:edSignature="eFUQg0H+FqGkydcQPEZZy4+0OBWpac+RIwEwHN2jq93Br3yH/a/VE8boKzVVOgyUZuZgCaLzlXi1aTZY3ol0AA==" 
-                length="4976892" 
+                url="https://drive.google.com/uc?export=download&id=1514MWtzltR-agrLWA6jWTJ9uGvXMJoOu" 
+                sparkle:edSignature="Vzg/J/McfKiA4So7zXkDMBkWxLCPA5k/AadXCPnh80WLdIJkNjmTHvoTow/1J/Fv8CKltqeXy7M16OlOxB/+Bg==" 
+                length="4973995" 
                 type="application/octet-stream" />
         </item>
     </channel>
