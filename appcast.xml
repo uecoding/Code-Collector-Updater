@@ -8,7 +8,7 @@
             <sparkle:version>0.1.12</sparkle:version>
             <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
             <enclosure 
-                url="https://drive.google.com/uc?export=download&id=1514MWtzltR-agrLWA6jWTJ9uGvXMJoOu" 
+                url="https://drive.google.com/uc?export=download\&id=1514MWtzltR-agrLWA6jWTJ9uGvXMJoOu" 
                 sparkle:edSignature="Vzg/J/McfKiA4So7zXkDMBkWxLCPA5k/AadXCPnh80WLdIJkNjmTHvoTow/1J/Fv8CKltqeXy7M16OlOxB/+Bg==" 
                 length="4973995" 
                 type="application/octet-stream" />
