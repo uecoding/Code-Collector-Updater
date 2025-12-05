@@ -4,13 +4,13 @@
         <title>Code Collector Updates</title>
         <item>
             <title>0.2.2</title>
-            <pubDate>Fri, 5 Dec 2025 02:43:12 +0100</pubDate>
+            <pubDate>Fri, 5 Dec 2025 03:34:30 +0100</pubDate>
             <sparkle:version>0.2.2</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <enclosure 
-                url="https://tinyurl.com/4abf92s2" 
-                sparkle:edSignature="b9Gby7iYvo3DMxfeH68sxILHkNfU22eW68gfcvmzpIa0cBLnPbpAOVxuom5l+LirseGCJZRlU3+7E16XToYNAw==" 
-                length="4978280" 
+                url="https://tinyurl.com/2dyca7zn" 
+                sparkle:edSignature="tbzxYzufzN2QLMGX3I85PdMaQdTo5wKWbEJsNG7iRY6qNxHaRV1dswYwO5GvsazJc+c1F780WaLTCe3F0zd/Dw==" 
+                length="4990481" 
                 type="application/octet-stream" />
         </item>
     </channel>
