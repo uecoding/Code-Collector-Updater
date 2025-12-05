@@ -1,1 +1,1 @@
-# Code-Collector-Updater
+# Cc-Updater
