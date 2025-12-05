@@ -1,17 +1,1 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Code Collector Updates</title>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Fri, 5 Dec 2025 02:16:57 +0100</pubDate>
-            <sparkle:version>0.2.2</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <enclosure 
-                url="https://shorturl.at/8KYGh" 
-                sparkle:edSignature="LUUw/c+G5lNKufjcbpIfODHYfg5asb55EKXolnBf+BolW0UAlrcMuP6jI/vHxEfcZz//01ltwiOK7iyreU79Cg==" 
-                length="4978285" 
-                type="application/octet-stream" />
-        </item>
-    </channel>
-</rss>
+
