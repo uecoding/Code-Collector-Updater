@@ -3,14 +3,14 @@
     <channel>
         <title>Code Collector Updates</title>
         <item>
-            <title>0.2.3</title>
-            <pubDate>Fri, 5 Dec 2025 15:57:12 +0100</pubDate>
-            <sparkle:version>0.2.3</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <title>0.3.2</title>
+            <pubDate>Fri, 5 Dec 2025 20:27:50 +0100</pubDate>
+            <sparkle:version>0.3.2</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <enclosure 
-                url="https://shorturl.at/Bgh2h" 
-                sparkle:edSignature="AfLyt6EtqJWpaV7xEHIbgvvBrWUhEviwkhbDzJaLiNyD7lmoBfJ453DVGemz1When6xPDPhy+B14RDrY3KAJAQ==" 
-                length="4899164" 
+                url="https://shorturl.at/iWrxT" 
+                sparkle:edSignature="x/dk+EOShwoy6TgSctQd0I1l5aXD9TWwe+eLWfNkG3QxpLuQZClfTZIm0VdTayham1I1Xkkf8yLnoXbxLZ9BDQ==" 
+                length="4901660" 
                 type="application/octet-stream" />
         </item>
     </channel>
